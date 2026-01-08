@@ -58,9 +58,12 @@ Face_Attendance/
 ---
 
 📸 Screenshots
-1.Face Capture
-2.Live Recognition
-3.Attendance CSV Output
+1.Face Capture<img width="821" height="647" alt="face_capture png" src="https://github.com/user-attachments/assets/81b15973-61f0-4be2-9302-f01082d51a0a" />
+
+2.Live Recognition<img width="796" height="647" alt="live_recognition png" src="https://github.com/user-attachments/assets/b551608f-8c49-447c-9e8d-c3d55595df5e" />
+
+3.Attendance CSV Output<img width="1911" height="1020" alt="attendance_csv png" src="https://github.com/user-attachments/assets/3f35831a-e3b8-492a-a1da-30480784d959" />
+
 
 ## ▶️ How to Run the Project
 
