@@ -30,3 +30,27 @@ The system captures faces through a webcam, trains a recognition model, identifi
 
 ## 📁 Project Structure
 
+Face_Attendance/
+├── dataset/ # Face images (ignored in GitHub)
+├── embeddings/ # Trained model & labels
+├── attendance/ # Attendance CSV files
+├── attendance_system_classroom.py
+├── collect_faces.py
+├── train_embeddings_opencv.py
+├── recognize_attendance_opencv.py
+├── README.md
+└── .gitignore
+
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Install Required Libraries
+```bash
+pip install opencv-python numpy pandas
+
+#to  run the program
+python attendance_system_classroom.py
+
+
