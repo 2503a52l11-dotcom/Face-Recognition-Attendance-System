@@ -58,7 +58,8 @@ Face_Attendance/
 ---
 
 📸 Screenshots
-1.Face Capture<img width="821" height="647" alt="face_capture png" src="https://github.com/user-attachments/assets/81b15973-61f0-4be2-9302-f01082d51a0a" />
+1.Face Capture<img width="794" height="634" alt="face_capture png" src="https://github.com/user-attachments/assets/604aa7c4-7f37-4202-bc3b-0fc72130cddf" />
+
 
 2.Live Recognition<img width="796" height="647" alt="live_recognition png" src="https://github.com/user-attachments/assets/b551608f-8c49-447c-9e8d-c3d55595df5e" />
 
