@@ -41,8 +41,26 @@ Face_Attendance/
 ├── README.md
 └── .gitignore
 
+⚒️Workflow
 
+1.Enter names of students
+2.System captures face images automatically
+3.Model is trained
+4.Live face recognition starts
+5.Attendance is marked automatically
+
+📈 Future Enhancements
+
+1.Cloud-based attendance storage
+2.Face recognition accuracy improvement using deep learning
+3.Mobile app integration
+4.Mask & spoof detection
 ---
+
+📸 Screenshots
+1.Face Capture
+2.Live Recognition
+3.Attendance CSV Output
 
 ## ▶️ How to Run the Project
 
