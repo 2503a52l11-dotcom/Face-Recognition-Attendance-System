@@ -1,0 +1,9 @@
+# Project Specific Folders
+dataset/
+attendance/
+embeddings/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
